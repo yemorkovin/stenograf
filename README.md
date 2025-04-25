@@ -1,6 +1,6 @@
 # LSB Steganography Application
 
-![App Screenshot](screenshot.png)
+![App Screenshot](img.png)
 
 Приложение для скрытия и извлечения текстовых сообщений в изображениях с использованием метода LSB (Least Significant Bit).
 
